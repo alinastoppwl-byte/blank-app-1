@@ -1,0 +1,7 @@
+flight_id,date,from,to,distance_miles
+1,2024-01-09,Michigen (BTL),Florida (PBI),1100
+2,2024-03-30,Florida (PBI),Connecticut (HVN),1100
+3,2024-03-30,Connecticut (HVN),Michigen (BTL),640
+4,2024-03-30,California (VNY),Florida (PBI),2300
+5,2024-03-24,Texas (AUS),California (VNY),1200
+6,2024-03-24,Kingstown (SVD),Texas (AUS),2600

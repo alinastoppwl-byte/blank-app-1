@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-
-
 # -----------------------------
 # CSV EINLESEN
 # -----------------------------
@@ -25,8 +23,10 @@ coords = {
     "Florida (PBI)": (26.6832, -80.0956),
     "Connecticut (HVN)": (41.2637, -72.8868),
     "California (VNY)": (34.2100, -118.4890),
-    "Texas (AUS)": (30.1975, -97.6663)
+    "Texas (AUS)": (30.1975, -97.6663),
+    "Kingstown (SVD)": (13.1567, -61.1499)      # <-- NEU hinzugefügt
 }
+
 
 df["lat_from"] = df["from"].map(lambda x: coords[x][0])
 df["lon_from"] = df["from"].map(lambda x: coords[x][1])
