@@ -5,3 +5,28 @@ flight_id,date,from,to,distance_miles
 4,2024-03-30,California (VNY),Florida (PBI),2300
 5,2024-03-24,Texas (AUS),California (VNY),1200
 6,2024-03-24,Kingstown (SVD),Texas (AUS),2600
+-
+7, 2024-03-17, Florida (PBI), Kingstown (SVD), 1500
+8,2024-03-14, New Jersey (TEB), Florida (PBI), 1000
+9, 2024-03-14, Florida (PBI), New Jersey (TEB), 1000
+10, 2024-03-10, Texas (AUS), Florida (PBI), 1100
+11,2024-03-09, Florida (PBI), Texas (AUS), 1100
+12, 2024-03-08, Philipsburg (SXM), Florida (PBI), 1200
+13, 2024-03-05, Florida (PBI), Philipsburg (SXM), 1200
+14, 2024-02-19, Bahamas (NAS), Florida (PBI), 200
+15, 2024-02-19, Florida (PBI), Bahamas(NAS), 200
+16, 2024-02-16, Bahamas (NAS), Florida (PBI), 200
+17, 2024-02-26, Florida (PBI), Bahamas (NAS), 200
+18, 2024-02-16, New Jersey (TEB), Florida (PBI), 1000
+19, 2024-02-15, Florida (PBI), New Jersey (TEB), 1000
+20, 2024-02-10, New Jersey (TEB), Florida (PBI), 1000
+21, 2024-02-07, Florida (PBI), New Jersey (TEB), 1040
+22, 2024-02-05, Orlando (ISM), Florida (PBI), 140
+23, 2024-02-02, Florida (PBI), Orlando (ISM), 140
+24, 2024-01-24, New Jersey (TEB), Florida (PBI), 1000
+25, 2024-01-24, Florida (PBI), New Jersey (TEB), 1000
+26, 2024-01-22, New Jersey (TEB), Florida (PBI), 1000
+27, 2024-01-22, Florida (PBI), New Jersey (TEB), 1000
+28, 2024-01-21, California (LAX), Florida (PBI), 2300
+29, 
+-
